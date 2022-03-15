@@ -1,1 +1,2 @@
-# Pok-dex
+# POKÉDEX
+
